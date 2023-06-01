@@ -1,2 +1,3 @@
 class EcuacionSegundogrado
-    pass
+
+    def calculoECS(selfs,a, b, c):
